@@ -1,0 +1,15 @@
+{
+  "/_not-found/page": "app/_not-found/page.js",
+  "/api/auth/route": "app/api/auth/route.js",
+  "/api/cards/route": "app/api/cards/route.js",
+  "/api/cards/[id]/route": "app/api/cards/[id]/route.js",
+  "/api/prices/route": "app/api/prices/route.js",
+  "/api/scan/route": "app/api/scan/route.js",
+  "/favicon.ico/route": "app/favicon.ico/route.js",
+  "/add-card/page": "app/add-card/page.js",
+  "/card/[id]/page": "app/card/[id]/page.js",
+  "/collection/page": "app/collection/page.js",
+  "/dashboard/page": "app/dashboard/page.js",
+  "/page": "app/page.js",
+  "/scan/page": "app/scan/page.js"
+}
